@@ -1,0 +1,17 @@
+2026-10-17 17:50:24	0	Invitado	Base de datos creada e inicializada.
+2026-10-17 17:58:20	0	Invitado	Salida del sistema desde autenticación.
+2026-10-17 18:00:32	0	Invitado	Usuario registrado exitosamente: Guille
+2026-10-17 18:00:52	1	Guille	Inicio de sesión exitoso.
+2026-10-17 18:01:05	1	Guille	Consulta de inventario vacía.
+2026-10-17 18:01:45	1	Guille	Alta de producto exitosa (ID: 100, Nombre: Cualquiera_1)
+2026-10-17 18:02:24	1	Guille	Alta de producto exitosa (ID: 101, Nombre: Cualquiera_2)
+2026-10-17 18:03:02	1	Guille	Alta de producto exitosa (ID: 103, Nombre: Abcde_3)
+2026-10-17 18:03:17	1	Guille	Consulta de inventario realizada con éxito.
+2026-10-17 18:03:35	1	Guille	Edición de producto exitosa (ID: 103)
+2026-10-17 18:03:53	1	Guille	Consulta de inventario realizada con éxito.
+2026-10-17 18:04:23	1	Guille	Alta de producto exitosa (ID: 102, Nombre: Dar_de_baja)
+2026-10-17 18:04:31	1	Guille	Consulta de inventario realizada con éxito.
+2026-10-17 18:04:38	1	Guille	Baja de producto exitosa (ID: 102)
+2026-10-17 18:04:45	1	Guille	Consulta de inventario realizada con éxito.
+2026-10-17 18:04:46	1	Guille	Generación de reporte HTML exitosa.
+2026-10-17 18:04:52	1	Guille	Cierre de sesión del usuario.
